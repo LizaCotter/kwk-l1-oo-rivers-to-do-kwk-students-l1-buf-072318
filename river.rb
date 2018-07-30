@@ -18,4 +18,4 @@ class River
 end
 
 nile = River.new("The Nile")
-missisippi  = River.new("The Nile")
+mississippi = River.new("The Mississippi")
