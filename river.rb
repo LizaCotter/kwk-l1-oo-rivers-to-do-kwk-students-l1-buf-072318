@@ -29,7 +29,7 @@ nile.countries = "9"
 nile.discharge = "30461.712"
 
 mississippi.length = "2,320"
-mississippi.countries = "9"
+mississippi.countries = "1"
 mississippi.discharge = "180746.4"
 
 amazon.length = "4,345"
