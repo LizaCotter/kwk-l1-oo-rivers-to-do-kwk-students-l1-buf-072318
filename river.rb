@@ -30,5 +30,5 @@ nile.discharge = "30461.712"
 
 mississippi.length = "4,258"
 mississippi.countries = "9"
-mississippi.discharge = "30461.712"
+mississippi.discharge = "180746.4"
 
