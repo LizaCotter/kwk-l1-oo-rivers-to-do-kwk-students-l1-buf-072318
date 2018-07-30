@@ -36,7 +36,7 @@ amazon.length = "4,345"
 amazon.countries = "9"
 amazon.discharge = "2249728.8"
 
-seine.length = "4,258"
+seine.length = "482"
 seine.countries = "9"
 seine.discharge = "5382.768"
 
