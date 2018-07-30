@@ -16,3 +16,5 @@ class River
     @discharge = @discharge * .5
   end
 end
+
+nile = River.new("Nile")
