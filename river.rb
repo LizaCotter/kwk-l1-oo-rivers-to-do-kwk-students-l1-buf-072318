@@ -33,7 +33,7 @@ mississippi.countries = "1"
 mississippi.discharge = "180746.4"
 
 amazon.length = "4,345"
-amazon.countries = "9"
+amazon.countries = "6"
 amazon.discharge = "2249728.8"
 
 seine.length = "482"
