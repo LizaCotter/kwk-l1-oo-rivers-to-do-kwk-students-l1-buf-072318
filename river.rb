@@ -22,5 +22,5 @@ mississippi = River.new("The Mississippi")
 amazon = River.new("The Amazon")
 seine = River.new("The Seine")
 yangtze = River.new("The Yangtze")
-seine = River.new("The Seine")
+euphrates = River.new("The Euphrates")
 
