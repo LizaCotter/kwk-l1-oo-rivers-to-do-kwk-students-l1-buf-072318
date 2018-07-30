@@ -20,4 +20,4 @@ end
 nile = River.new("The Nile")
 mississippi = River.new("The Mississippi")
 amazon = River.new("The Amazon")
-mississippi = River.new("The Mississippi")
+seine = River.new("The Seine")
