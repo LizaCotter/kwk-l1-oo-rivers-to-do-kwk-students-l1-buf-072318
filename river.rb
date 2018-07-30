@@ -37,7 +37,7 @@ amazon.countries = "6"
 amazon.discharge = "2249728.8"
 
 seine.length = "482"
-seine.countries = "9"
+seine.countries = "1"
 seine.discharge = "5382.768"
 
 yangtze.length = "3,915"
