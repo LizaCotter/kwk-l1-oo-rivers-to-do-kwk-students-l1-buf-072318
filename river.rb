@@ -17,4 +17,4 @@ class River
   end
 end
 
-nile = River.new("Nile")
+nile = River.new("The Nile")
