@@ -40,7 +40,7 @@ seine.length = "482"
 seine.countries = "9"
 seine.discharge = "5382.768"
 
-yangtze.length = ""
+yangtze.length = "3,915"
 yangtze.countries = "9"
 yangtze.discharge = "324612"
 
