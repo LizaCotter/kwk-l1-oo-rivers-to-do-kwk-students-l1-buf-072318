@@ -32,3 +32,7 @@ mississippi.length = "4,258"
 mississippi.countries = "9"
 mississippi.discharge = "180746.4"
 
+amazon.length = "4,258"
+amazon.countries = "9"
+amazon.discharge = "180746.4"
+
