@@ -26,5 +26,5 @@ euphrates = River.new("The Euphrates")
 
 nile.length = "4,258"
 nile.countries = "9"
-nile.
+nile.discharge = "30461.712"
 
