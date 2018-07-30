@@ -38,5 +38,9 @@ amazon.discharge = "2249728.8"
 
 seine.length = "4,258"
 seine.countries = "9"
-seine.discharge = "2249728.8"
+seine.discharge = "5382.768"
+
+yangtze.length = "4,258"
+yangtze.countries = "9"
+yangtze.discharge = "5382.768"
 
