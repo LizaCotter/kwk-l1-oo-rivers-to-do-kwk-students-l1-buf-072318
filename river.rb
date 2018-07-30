@@ -25,5 +25,6 @@ yangtze = River.new("The Yangtze")
 euphrates = River.new("The Euphrates")
 
 nile.length = "4,258"
-nile.countries = ""
+nile.countries = "9"
+nile.
 
