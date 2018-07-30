@@ -42,5 +42,8 @@ seine.discharge = "5382.768"
 
 yangtze.length = "4,258"
 yangtze.countries = "9"
-yangtze.discharge = "5382.768"
+yangtze.discharge = "324612"
 
+euphrates.length = "4,258"
+euphrates.countries = "9"
+euphrates.discharge = "324612"
