@@ -45,5 +45,5 @@ yangtze.countries = "1"
 yangtze.discharge = "324612"
 
 euphrates.length = "1,740"
-euphrates.countries = "9"
+euphrates.countries = "3"
 euphrates.discharge = "3831.336"
